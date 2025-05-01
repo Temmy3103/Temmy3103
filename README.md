@@ -41,14 +41,9 @@ Completed on
 Ask me about
 Microsoft 365 setup and administration, Azure, Identity and Access Management, IT infrastructure modernization, Scripting and automation workflows
 
-![Temmy3103's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Temmy3103&show_icons=true&theme=tokyonight)
+![Temmy3103's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Temmy3103&show_icons=true&theme=default)
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Temmy3103&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temmy3103&layout=compact&theme=tokyonight" />
-</p>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmy3103&layout=compact)
 
 
 
