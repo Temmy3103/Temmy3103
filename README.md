@@ -16,6 +16,14 @@ I'm Temitayo, an IT Infrastructure and Cloud Specialist with a focus on Microsof
 Completed on 
 4/24/2025](https://learn.microsoft.com/api/achievements/share/en-us/Adeosuntemitayo-4149/XQVMH78Y?sharingId=5563B876E96296FC)
 
+[![Create, configure, and manage identities](https://learn.microsoft.com/api/achievements/share/en-us/Adeosuntemitayo-4149/VJE84H5M?sharingId=5563B876E96296FC)
+
+### Certifications
+
+[![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/Adeosuntemitayo-4149/CFE0BE7678871635?sharingId=5563B876E96296FC)
+
+[![Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/Adeosuntemitayo-4149/36AEE6D6E1A48B31?sharingId=5563B876E96296FC)
+
  I’m looking to collaborate on Microsoft 365 and Azure-based projects, Infrastructure automation (PowerShell, Terraform),Cloud migration and hybrid setup strategies
 
   I’m currently learning Azure DevOps & CI/CD pipelines, Microsoft Defender & cloud security best practices, Advanced PowerShell scripting
