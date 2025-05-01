@@ -43,7 +43,6 @@ Microsoft 365 setup and administration, Azure, Identity and Access Management, I
 
 ![Temmy3103's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Temmy3103&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmy3103&layout=compact&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Temmy3103&show_icons=true&theme=tokyonight" />
