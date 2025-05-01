@@ -16,26 +16,12 @@ I'm Temitayo, an IT Infrastructure and Cloud Specialist with a focus on Microsof
 Completed on 
 4/24/2025](https://learn.microsoft.com/api/achievements/share/en-us/Adeosuntemitayo-4149/XQVMH78Y?sharingId=5563B876E96296FC)
 
- I’m looking to collaborate on
-Microsoft 365 and Azure-based projects
+ I’m looking to collaborate on Microsoft 365 and Azure-based projects, Infrastructure automation (PowerShell, Terraform),Cloud migration and hybrid setup strategies
 
-Infrastructure automation (PowerShell, Terraform)
+  I’m currently learning Azure DevOps & CI/CD pipelines, Microsoft Defender & cloud security best practices, Advanced PowerShell scripting
 
-Cloud migration and hybrid setup strategies
-
- I’m currently learning
-Azure DevOps & CI/CD pipelines
-
-Microsoft Defender & cloud security best practices
-
-Advanced PowerShell scripting
-
-🙋 Ask me about
-Microsoft 365 setup and administration
-
-IT infrastructure modernization
-
-Scripting and automation workflows
+Ask me about
+Microsoft 365 setup and administration, Azure, Identity and Access Management, IT infrastructure modernization, Scripting and automation workflows
 
 ![Temmy3103's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Temmy3103&show_icons=true&theme=tokyonight)
 
