@@ -24,6 +24,15 @@ Completed on
 
 [![Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/Adeosuntemitayo-4149/36AEE6D6E1A48B31?sharingId=5563B876E96296FC)
 
+[![Networking Basics](https://www.credly.com/badges/118c2039-c03a-4598-b06e-44a033b95678/public_url)
+
+[![Networking Devices and Initial Configuration](https://www.credly.com/badges/53c3903f-60eb-4d0a-b41a-f16d504c7751/public_url)
+
+[![Operating Systems](https://www.credly.com/badges/88144557-7584-4653-a848-e45f47124a2d/public_url)
+
+
+[![Google Data Analytics Professional Certificate](https://www.credly.com/badges/52c59e19-bac0-43b8-8628-a5e439a99ab9/public_url)
+
  I’m looking to collaborate on Microsoft 365 and Azure-based projects, Infrastructure automation (PowerShell, Terraform),Cloud migration and hybrid setup strategies
 
   I’m currently learning Azure DevOps & CI/CD pipelines, Microsoft Defender & cloud security best practices, Advanced PowerShell scripting
