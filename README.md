@@ -37,14 +37,15 @@ IT infrastructure modernization
 
 Scripting and automation workflows
 
-![Temmy3103's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Temmy3103&show_icons=true&theme=default)
+![Temmy3103's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Temmy3103&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmy3103&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmy3103&layout=compact&theme=tokyonight)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Temmy3103&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temmy3103&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Temmy3103&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temmy3103&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 
