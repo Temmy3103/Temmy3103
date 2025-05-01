@@ -30,7 +30,7 @@ Completed on
 
 [![Operating Systems](https://www.credly.com/badges/88144557-7584-4653-a848-e45f47124a2d/public_url)
 
-[!Introduction to CyberSecurity](https://www.credly.com/badges/c0fa22d8-39ff-4c7a-9955-845e6487df37/public_url)
+[![Introduction to CyberSecurity](https://www.credly.com/badges/c0fa22d8-39ff-4c7a-9955-845e6487df37/public_url)
 
 [![Google Data Analytics Professional Certificate](https://www.credly.com/badges/52c59e19-bac0-43b8-8628-a5e439a99ab9/public_url)
 
