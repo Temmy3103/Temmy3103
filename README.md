@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 
 
 I'm Temitayo, an IT Infrastructure and Cloud Specialist with a focus on Microsoft 365, Azure, Physical Infrastructure, IOT and automation. I enjoy solving real-world tech challenges and building secure, scalable solutions for modern workplaces.
 
